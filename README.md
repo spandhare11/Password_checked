@@ -1,4 +1,4 @@
-Password Strength Checker
+**Password Strength Checker**
 
 A simple, client-side Password Strength Checker built with HTML, CSS, and JavaScript. Type a password into the input and the page shows a numeric score (0.0–10.0), a strength label, and — if the password is Weak or Medium — a suggested stronger password derived by adding missing character types.
 
